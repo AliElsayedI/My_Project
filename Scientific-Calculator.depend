@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698450534 source:d:\computer science\software course\files of codes\scientific-calculator\src\calculator.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cmath>
+	"Calculator.h"
+
+1698450447 d:\computer science\software course\files of codes\scientific-calculator\include\calculator.h
+	<string>
+
+1698451046 source:d:\computer science\software course\files of codes\scientific-calculator\main.cpp
+	<iostream>
+	"Calculator.h"
+
